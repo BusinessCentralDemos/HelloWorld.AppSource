@@ -10,7 +10,7 @@
     "help":  "https://github.com/BusinessCentralApps/HelloWorld.AppSource",
     "url":  "https://github.com/BusinessCentralApps/HelloWorld.AppSource",
     "contextSensitiveHelpUrl":  "https://github.com/BusinessCentralApps/HelloWorld.AppSource",
-    "logo":  "logo256x240",
+    "logo":  "logo256x240.png",
     "dependencies":  [
 
                      ],
