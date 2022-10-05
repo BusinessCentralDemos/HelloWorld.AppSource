@@ -1,12 +1,18 @@
 {
     "country":  "us",
+    "LicenseFileUrlSecretName":  "LicenseFile",
+    "VersioningStrategy":  16,
     "AppSourceCopMandatoryAffixes":  [
-        "<affix>"
+        "MS_"
     ],
+    "CodeSignCertificateUrlSecretName":  "CodeSignCertificateUrl",
+    "CodeSignCertificatePasswordSecretName":  "CodeSignCertificatePassword",
     "appFolders":  [
+        "HelloWorld"
     ],
     "testFolders":  [
     ],
     "bcptTestFolders":  [
-    ]
+    ],
+    "RepoVersion":  "1.0"
 }

@@ -3,12 +3,13 @@
     "name":  "HelloWorld.AppSource",
     "publisher":  "Freddy Kristiansen",
     "version":  "1.0.0.0",
-    "brief":  "",
-    "description":  "",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
+    "brief":  "HelloWorld app",
+    "description":  "HelloWorld app with functionality to greet users",
+    "privacyStatement":  "https://github.com/BusinessCentralApps/HelloWorld.AppSource",
+    "EULA":  "https://github.com/BusinessCentralApps/HelloWorld.AppSource",
+    "help":  "https://github.com/BusinessCentralApps/HelloWorld.AppSource",
+    "url":  "https://github.com/BusinessCentralApps/HelloWorld.AppSource",
+    "contextSensitiveHelpUrl":  "https://github.com/BusinessCentralApps/HelloWorld.AppSource",
     "logo":  "",
     "dependencies":  [
 
@@ -17,7 +18,7 @@
 
                     ],
     "platform":  "1.0.0.0",
-    "application":  "19.0.0.0",
+    "application":  "20.0.0.0",
     "idRanges":  [
                      {
                          "from":  70074160,

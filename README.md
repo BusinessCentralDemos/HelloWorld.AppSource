@@ -1,5 +1,5 @@
-# AL-Go Template
-## AppSource App Project
-This template repository can be used for managing AppSource Apps for Business Central.
+# BingMaps.AppSource
+Welcome to this Open Source AppSource App, which is a simple Hello World app.
 
-Please consult https://github.com/microsoft/AL-Go/#readme for scenarios on usage
+## Contribute
+Please fork this repository and submit a Pull Request with your suggested changes.
