@@ -1,4 +1,4 @@
-# BingMaps.AppSource
+# HelloWorld.AppSource
 Welcome to this Open Source AppSource App, which is a simple Hello World app.
 
 ## Contribute
