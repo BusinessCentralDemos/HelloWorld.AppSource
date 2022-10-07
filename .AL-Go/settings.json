@@ -9,7 +9,7 @@
     "CodeSignCertificatePasswordSecretName":  "CodeSignCertificatePassword",
     "AppSourceProductId":  "5b13917b-24f1-42a1-aaa5-59029a4391d7",
     "AppSourceMainAppFolder":  "HelloWorld",
-    "AppSourceContinuousDelivery":  false,
+    "AppSourceContinuousDelivery":  true,
     "appFolders":  [
         "HelloWorld"
     ],
