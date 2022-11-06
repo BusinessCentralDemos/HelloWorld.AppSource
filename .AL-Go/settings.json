@@ -1,6 +1,5 @@
 {
     "country":  "us",
-    "LicenseFileUrlSecretName":  "LicenseFile",
     "VersioningStrategy":  16,
     "AppSourceCopMandatoryAffixes":  [
         "MS_"
