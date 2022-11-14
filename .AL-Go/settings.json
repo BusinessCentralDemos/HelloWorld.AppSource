@@ -1,5 +1,6 @@
 {
     "country":  "us",
+    "artifact": "bcartifacts/sandbox/20.0/us/first",
     "VersioningStrategy":  16,
     "AppSourceCopMandatoryAffixes":  [
         "MS_"
